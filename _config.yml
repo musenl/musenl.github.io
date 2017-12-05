@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://musenl.github.io
+url: https://musenl.github.io
 date_format: "ordinal"
 title: dejavu
 subtitle: "荡起科学技术之小舟"
