@@ -4,7 +4,17 @@
       - Python
       - owasp
 
-- name: Windows Developer Keywords
+- name: Security Maintenance Support Engineer Keywords
+  keywords:
+      - linux
+      - firewall
+      - ldap
+      - vpn
+      - F5
+      - networks
+      - cloud
+
+- name: Web Security Engineer Keywords
   keywords:
       - Burpsuite
       - web
