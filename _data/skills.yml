@@ -2,21 +2,21 @@
   keywords:
       - Java
       - Python
-      - shell Script
+      - Shell Script
 
 - name: Security Maintenance Support Engineer Keywords
   keywords:
-      - linux
-      - firewall
-      - ldap
-      - vpn
+      - Linux
+      - Firewall
+      - Ldap
+      - VPN
       - F5
-      - networks
-      - cloud
+      - Networks
+      - Cloud
 
 - name: Web Security Engineer Keywords
   keywords:
       - Burpsuite
-      - web
-      - binary
+      - Web
+      - Binary
       - CTF
