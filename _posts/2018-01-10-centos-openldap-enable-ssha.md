@@ -277,22 +277,19 @@ userPassword: johnldap
 
 配置连接:
 
-![image](../images/posts/ldap/658832-20160628192245093-654773812.png)
+![image](https://raw.githubusercontent.com/musenl/musenl.github.io/master/images/posts/ldap/658832-20160628192245093-654773812.png)
 
-![image](../images/posts/ldap/658832-20160628192247327-1199690489.png)
+![image](https://raw.githubusercontent.com/musenl/musenl.github.io/master/images/posts/ldap/658832-20160628192247327-1199690489.png)
 
 连接后的效果
 
-![image](../images/posts/ldap/658832-20160628192248952-999954053.png)
+![image](https://raw.githubusercontent.com/musenl/musenl.github.io/master/images/posts/ldap/658832-20160628192248952-999954053.png)
 
  
 
 参考的blog：
 
->  1、<http://my.oschina.net/5lei/blog/193484>
->
->  2、http://xacmlinfo.org/2015/06/25/enable-hash-passwords-in-openldap/
->
->  3、https://wiki.archlinux.org/index.php/OpenLDAP_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
->
->  4、http://407711169.blog.51cto.com/6616996/1529506
+1、<http://my.oschina.net/5lei/blog/193484>
+2、http://xacmlinfo.org/2015/06/25/enable-hash-passwords-in-openldap/
+3、https://wiki.archlinux.org/index.php/OpenLDAP_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
+4、http://407711169.blog.51cto.com/6616996/1529506
