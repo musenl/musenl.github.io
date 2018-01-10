@@ -4,12 +4,6 @@
       - Python
       - owasp
 
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - IOS
-      - Web security Engineering
-
 - name: Windows Developer Keywords
   keywords:
       - Burpsuite
