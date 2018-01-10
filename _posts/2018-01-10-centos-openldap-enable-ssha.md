@@ -2,7 +2,7 @@
 layout: post
 title: Centos6.5下OpenLdap搭建(环境配置+双机主从配置+LDAPS+enable SSHA)
 categories: 安全运维
-description:在Centos6.5环境下搭建OpenLdap(环境配置+双机主从配置+LDAPS+enable SSHA)
+description: 在Centos6.5环境下搭建OpenLdap(环境配置+双机主从配置+LDAPS+enable SSHA)
 keywords: Centos6.5,OpenLdap,SSHA
 ---
 

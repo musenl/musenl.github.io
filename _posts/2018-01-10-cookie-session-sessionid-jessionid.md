@@ -8,19 +8,17 @@ keywords: cookie, session, sessionid, jessionid
 
 cookie、session、sessionid 与jsessionid，要想明白他们之间的关系，下面来看个有趣的场景来帮你理解。
 
- 
-
-## 场景理解
+##  场景理解
 
 我们都知道银行，银行的收柜台每天要接待客户存款/取款业务，可以有几种方案：
 
 凭借柜台职员的记忆，由收柜台职员来为每位顾客办理存款/取款业务，单凭职员的记忆力，要记到每位顾客的相貌，并迅速这个顾客当前的存款以及存取的次数，每次存取的金额是多少。-----------这种方式表示协议本身支持状态。
 
-![img](../images/posts/cookie&session/1024-gold.png)
+![img](https://raw.githubusercontent.com/musenl/musenl.github.io/master/images/posts/cookie%26session/1024-gold.png)
 
 使用存折的方式，然后柜台职员就把每个顾客的存款/取款的信息保存在这张折子，然后交给顾客保管，当顾客来存款/取款时，只要拿出存折，职员查看存折就对当前这位顾客的存款/取款信息一目了然。当然，你马上会想到，顾客修改这个信息怎么办？我们也有措施对每次存款/取款记录后面盖章。无盖章的就是假冒信息。但如果顾客是真的要伪造，当然印章也是可以伪造的。-------这种方式就是在客户端端保持状态。
 
-![img](../images/posts/cookie&session/2012081323574756.png)
+![img](https://raw.githubusercontent.com/musenl/musenl.github.io/master/images/posts/cookie%26session/2012081323574756.png)
 
 使用银行卡的方式，发给每位银行用户一张银行卡，银行卡上有一个唯一的卡号，没有其它任何信息，当顾客来存款/取款时，拿出银行卡，银行把卡号输入的电脑，很快就显示当前用户的存/取款记录。这种方式的安全性就会有很大的提高。用户想要手脚只有攻破银行的服务器来修改自己的存/取款信息，这样做难度会很大。---------这种方式就是服务器端保持状态。
 
