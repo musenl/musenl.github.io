@@ -1,9 +1,9 @@
 ---
 layout: post
-title: grep与egrep的使用
-categories: linux基础
-description: grep egrep使用指南
-keywords: grep, egrep,linux
+title: grep 与 egrep 的使用
+categories: linux 基础
+description: grep egrep 使用指南
+keywords: grep, egrep, linux
 ---
 grep（global search regular expression_r(RE) and print out the line,全面搜索正则表达式并把行打印出来）是一种强大的文本搜索工具，它能使用正则表达式搜索文本，并把匹配的行打印出来。Unix的grep家族包括grep、egrep和fgrep。egrep和fgrep的命令只跟grep有很小不同。egrep是grep的扩展，支持更多的re元字符， fgrep就是fixed grep或fast
 

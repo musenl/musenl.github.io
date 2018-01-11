@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Centos6.5下OpenLdap搭建(环境配置+双机主从配置+LDAPS+enable SSHA)
+title: Centos6.5 下 OpenLdap 搭建(环境配置+双机主从配置+ LDAPS + enable SSHA )
 categories: 安全运维
-description: 在Centos6.5环境下搭建OpenLdap(环境配置+双机主从配置+LDAPS+enable SSHA)
-keywords: Centos6.5,OpenLdap,SSHA
+description: 在 Centos6.5 环境下搭建 OpenLdap (环境配置+双机主从配置+ LDAPS + enable SSHA)
+keywords: Centos6.5, OpenLdap, SSHA
 ---
 
 OpenLDAP 是 LDAP 协议的一个开源实现。LDAP 服务器本质上是一个为只读访问而优化的非关系型数据库。它主要用做地址簿查询（如 email 客户端）或对各种服务访问做后台认证以及用户数据权限管控。（例如，访问 Samba 时，LDAP 可以起到域控制器的作用；或者 [Linux 系统认证](https://wiki.archlinux.org/index.php/LDAP_authentication) 时代替 `/etc/passwd` 的作用。）
