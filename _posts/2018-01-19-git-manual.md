@@ -28,27 +28,26 @@ keywords: git github
 
 - 新建本地git仓库时,添加文件:(要先pull下来tar_url的文件到新建的文件夹,然后将要提交的文件复制到新建文件夹中
 
-   ``git push -u origin master``
+  ``git push -u origin master``
 
    *如果先把要提交的新文件放到新建的文件夹下再进行如下一串命令,将提示出错)*
 
-
 - 在随便新建的一个文件夹下
 
-​       ``git init``
+  ``git init``
 
 - 该条命令执行后用新文件替换旧文件
 
-​       ``git pull tar_url``
+  ``git pull tar_url``
 
-​       ``git status``
+  ``git status``
 
 -   git add newfile 
 
-​      ``git add .``
+  ``git add .``
 
-​      `` git commit -a -m "xxx"``
+  ``git commit -a -m "xxx"``
 
-​      ``  git remote add origin tar_url``
+  ``git remote add origin tar_url``
 
-​      ``git push -u origin master``
+  ``git push -u origin master``
