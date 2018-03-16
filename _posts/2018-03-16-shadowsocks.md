@@ -1,9 +1,10 @@
+---
 layout: post
 title: 基于Bandwagon的VPS服务使用ShadowSocks+cow代理
 categories: shadowsocks
 description: 基于Bandwagon的VPS服务使用ShadowSocks+cow代理
 keywords: ShadowSocks, Bandwagon,vps
-
+---
 ## VPS哪家强
 
 不要问度娘“VPS哪家强”，它只是一只广告狗。于是，我去微博搜了“VPS”关键字，发现了更真实的用户体验，有人被Bandwagon经济实惠的VPS感动到哭了！
