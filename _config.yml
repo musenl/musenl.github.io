@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: 北及
-organization: pingan.com
-organization_url: http://www.pingan.com
+organization:
+organization_url: 
 github_username: musenl
 location: Shenzhen, China
 email: pangyanmsn@outlook.com
